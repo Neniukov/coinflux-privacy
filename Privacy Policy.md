@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective date:** [Insert Date]
+**Effective date:** 07.05.2025
 
 This application respects your privacy and is committed to protecting your personal data. Please read this policy to understand how your information is handled.
 
@@ -43,4 +43,4 @@ The developer is not responsible for:
 
 For any questions, requests, or concerns, please contact us:
 
-📧 [your.email@example.com]
+📧 nenykovatom@gmail.com
