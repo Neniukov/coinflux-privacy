@@ -1,1 +1,0 @@
-# coinflux-privacy
